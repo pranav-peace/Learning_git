@@ -1,0 +1,2 @@
+this is the new way to learn git.
+I have started to learn git.
