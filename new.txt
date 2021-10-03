@@ -1,0 +1,3 @@
+This is the new sample file while learning git.
+Good going till now.
+
